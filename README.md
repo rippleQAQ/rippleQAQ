@@ -1,7 +1,7 @@
 ### Hi my friends 👋
 🔭I'm ripple.  
-💬 Now I'm a student and a noob in website security.
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=rippleQAQ)]()
+💬 Now I'm a student and a noob in website security.  
+[![](https://github-readme-stats.vercel.app/api?username=rippleQAQ)]()
 
 
 <!--
