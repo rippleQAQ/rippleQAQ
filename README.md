@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi my friends 👋
+🔭I'm ripple.
+💬 Now I'm a student and a noob in website security.
 <!--
 **rippleQAQ/rippleQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
